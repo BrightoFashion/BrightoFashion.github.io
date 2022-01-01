@@ -1,7 +1,3 @@
-<?php
-// Start the session
-session_start();
-?>
 <!DOCTYPE html>
 <!-- Created By CodingNepal -->
 <html lang="en">
@@ -26,7 +22,7 @@ session_start();
     <nav class="navbar">
         <div class="max-width">
             <!-- Brighto <span>Fashion</span> Vellay-->
-            <div class="logo"><a href="#"><img style="width: 35%;" src="/asset/logo/Brighto_Fashion_VellayLogo.png"> </a></div>
+            <div class="logo"><a href="#"><img style="width: 35%;" src="/brightofashion/asset/logo/logo.png"> </a></div>
             <ul class="menu">
                 <li><a href="#home" class="menu-btn">Home</a></li>
                 <li><a href="#about" class="menu-btn">About</a></li>
