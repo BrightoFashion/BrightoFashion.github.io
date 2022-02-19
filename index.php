@@ -226,7 +226,7 @@
                     </div>
                 </div>
                 <div class="column right">
-                    <div class="text">Message me</div>
+                    <div class="text">Message us</div>
                     <form action="#">
                         <div class="fields">
                             <div class="field name">
